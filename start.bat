@@ -1,0 +1,5 @@
+start cmd.exe /k "C: && cd C:\Program Files\MongoDB\Server\5.0\bin && mongod.exe --dbpath D:\Courses\MongoDB\database && exit"
+start cmd.exe /k "C:\Users\ojcouto.INDRA\AppData\Local\MongoDBCompass\MongoDBCompass.exe && exit"
+start cmd.exe /k "C:\Users\ojcouto.INDRA\AppData\Local\Postman\Postman.exe && exit"
+start cmd.exe /k "cd D:\Courses\MERN\blog\server && npm start"
+start cmd.exe /k "cd D:\Courses\MERN\blog\client && npm run dev"
